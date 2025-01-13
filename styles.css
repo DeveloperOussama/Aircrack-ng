@@ -200,7 +200,7 @@ a:hover {
         color: black;
         padding: 10px 55px;
         margin: 10px;
-        font-size: 15px;
+        font-size: 10px;
         background-color: gainsboro;
         transition: all 0.3s ease;
     }
