@@ -67,7 +67,7 @@ button {
 a {
     text-decoration: none;
     color: black;
-    padding: 10px 55px;
+    padding: 10px 60px;
     margin: 10px;
     font-size: 25px;
     background-color: gainsboro;
@@ -134,7 +134,7 @@ a:hover {
     a {
         text-decoration: none;
         color: black;
-        padding: 10px 55px;
+        padding: 10px 60px;
         margin: 10px;
         font-size: 20px;
         background-color: gainsboro;
@@ -198,7 +198,7 @@ a:hover {
     a {
         text-decoration: none;
         color: black;
-        padding: 10px 55px;
+        padding: 10px 60px;
         margin: 10px;
         font-size: 10px;
         background-color: gainsboro;
