@@ -58,7 +58,7 @@ p {
 }
 
 pre {
-  width: 65%;
+  width: 85%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -154,7 +154,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 650px) {
   body {
     width: 100%;
     display: flex;
@@ -225,7 +225,7 @@ a:hover {
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 410px) {
   body {
     display: none;
   }
