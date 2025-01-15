@@ -57,7 +57,7 @@
 
       <h2>Step 6: Crack the Password</h2>
       <p>With a captured handshake, use Aircrack-ng to crack the password:</p>
-      <pre>aircrack-ng -w wordlist.txt capturefile.cap</pre>
+      <pre>aircrack-ng -w wordlist.txt --bssid [BSSID] capturefile.cap</pre>
       <p>
         Replace <code>wordlist.txt</code> with the path to your wordlist file.
         Aircrack-ng will attempt to crack the password using the wordlist.
